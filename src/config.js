@@ -16,5 +16,9 @@ export default {
       IDENTITY_POOL_ID: "us-east-2:4c1c3719-3c66-416d-9dae-8cda75b43f54"
     },
 
+    social: {
+      FB: "187543715681679"
+    },
+
     STRIPE_KEY: "pk_test_ihzI6WykZJJNmtDvIpHwavjQ00wcmZ3J7C"
   };
